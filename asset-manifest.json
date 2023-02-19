@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-nflix/static/js/main.eff601ca.js",
+    "index.html": "/react-nflix/index.html",
+    "main.eff601ca.js.map": "/react-nflix/static/js/main.eff601ca.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eff601ca.js"
+  ]
+}
