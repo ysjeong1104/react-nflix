@@ -1,9 +1,7 @@
 import React from "react";
 import { useLocation } from "react-router-dom";
 
-interface IParams{
-    keyword : string;
-}
+
 const Search=()=>{
     const location = useLocation();    
     const search = new URLSearchParams(location.search);
