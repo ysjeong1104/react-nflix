@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-nflix/static/js/main.eff601ca.js",
+    "main.js": "/react-nflix/static/js/main.cb2a621a.js",
     "index.html": "/react-nflix/index.html",
-    "main.eff601ca.js.map": "/react-nflix/static/js/main.eff601ca.js.map"
+    "main.cb2a621a.js.map": "/react-nflix/static/js/main.cb2a621a.js.map"
   },
   "entrypoints": [
-    "static/js/main.eff601ca.js"
+    "static/js/main.cb2a621a.js"
   ]
 }
